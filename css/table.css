@@ -1,0 +1,6 @@
+.table th, td {
+    text-align: center;
+    padding: 20px;
+    min-width:200px;
+    color: black;
+} 
